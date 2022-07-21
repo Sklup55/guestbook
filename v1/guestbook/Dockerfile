@@ -6,6 +6,9 @@
 # EXPOSE
 # FROM
 # CMD
+# PUSH
+# PULL
+# WORKDIR
 
 
 FROM golang:1.15 as builder
